@@ -11,3 +11,5 @@ Arni ist der Beste und coolste!
 * Item 5
 
 > I’ll be back
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Arnold_Schwarzenegger_1974.jpg/412px-Arnold_Schwarzenegger_1974.jpg"/>
